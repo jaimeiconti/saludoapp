@@ -7,8 +7,7 @@ pipeline {
     stages {
         stage('Clonar') {
             steps {
-                git
-                'https://github.com/jaimeiconti/saludoapp'
+                git url 'https://github.com/jaimeiconti/saludoapp'
             }
         }
         stage('Compilar') {
