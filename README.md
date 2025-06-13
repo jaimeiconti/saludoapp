@@ -1,3 +1,5 @@
+Automatización del proceso de construcción con Jenkins.
+
 ¿Qué beneficios concretos viste al automatizar la construcción con Jenkins?
 R: Se puede ahorrar mucho tiempo en los test y despliegues.
 - ¿Qué parte del proceso crees que sería más crítica en un equipo grande?
